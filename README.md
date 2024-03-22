@@ -1,4 +1,4 @@
 - 👋 Hi, I’m megamunch.
 - 👀 I’m interested in coding, music, video games, teaching, tech, TV, books, gardening, and parenting!
 - 💻 I'm a Software Developer and Data Scientist at trophi.ai.
-- 📫 Find me on [LinkedIn](www.linkedin.com/in/sskanes)!
+- 📫 Find me on LinkedIn at www.linkedin.com/in/sskanes
